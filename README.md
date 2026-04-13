@@ -20,10 +20,10 @@ The report focuses on analysis of sales performance across time periods, locatio
 
 #### Key Columns: 
 
-  1.	Order_Date
-  2.	Amount
-  3.	Profit
-  4.	State
-  5.	Category
-  6.	Sub_Category
-  7.	CustomerName 
+- Order_Date
+- Amount
+- Profit
+- State
+- Category
+- Sub_Category
+- CustomerName 
